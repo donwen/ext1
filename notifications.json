@@ -1,0 +1,10 @@
+{
+	"notifications": [
+		{
+			"id": "1",
+			"title": "test",
+			"message": "this is a test notification",
+			"contextMessage": "small text area"
+		}
+	]
+}
